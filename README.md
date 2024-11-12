@@ -1,6 +1,6 @@
 # VR67-Keyboard-PCB
 
-<img src="docs/donotbuild.min.svg" alt="Under Construction" width="480">
+<center><img src="docs/donotbuild.min.svg" alt="Under Construction" width="320"></center>
 
 ## Intent
 
