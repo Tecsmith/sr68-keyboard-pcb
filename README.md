@@ -1,10 +1,10 @@
 # VR67-Keyboard-PCB
 
-<center><img src="docs/donotbuild.min.svg" alt="Under Construction" width="320"></center>
+<img src="docs/donotbuild.min.svg" alt="Under Construction" width="320"  align="center">
 
 ## Intent
 
-***This is a long intent idea - not lilely to start soon!***
+> ***This is a long intent idea - not lilely to start soon!***
 
 A 67-key "65%" keyboard designed for QMK with specific focus on Topre / EC *(Electro Capacitive)* switches.
 
