@@ -1,4 +1,4 @@
-# VR67-Keyboard-PCB
+# VR68-Keyboard-PCB
 
 <p align="center"><img src="docs/donotbuild.min.svg" alt="Under Construction" width="320"></p>
 
@@ -6,16 +6,16 @@
 
 > ***This is a long intent idea - not lilely to start soon!***
 
-A 67-key "65%" keyboard designed for QMK with specific focus on Topre / EC *(Electro Capacitive)* switches.
+A 68-key "65%" keyboard designed for QMK with specific focus on Topre / EC *(Electro Capacitive)* switches.
 
 
 ## Ideation
 
-Ah.... Topre!  The much wanted, but highly niche, keyboards.  Only a few on the market, and most of thoes are ABS cases.
+Ah.... Topre!  The much wanted, but highly niche, keyboards.  Only a few on the market, and most of those are ABS cases.
 
 This will be an attempt to build a Alu case topre-style keyboard.
 
-![](docs/vr67-display.png)
+![](docs/vr68-display.png)
 
 **The problem is...**
 
