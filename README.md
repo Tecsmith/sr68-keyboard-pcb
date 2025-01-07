@@ -1,6 +1,8 @@
-# VR68-Keyboard-PCB
+# SR68-Keyboard-PCB
 
 <p align="center"><img src="docs/donotbuild.min.svg" alt="Under Construction" width="320"></p>
+
+> ⚠️ Ideation stage, no actual content here yet.
 
 ## Intent
 
@@ -15,7 +17,9 @@ Ah.... Topre!  The much wanted, but highly niche, keyboards.  Only a few on the 
 
 This will be an attempt to build a Alu case topre-style keyboard.
 
-![](docs/vr68-display.png)
+| <small>Option 1</small> | <small>Option 2</small> |
+|:---:|:---:|
+| ![](docs/sr68-display-1.png) | ![](docs/sr68-display-2.png) | 
 
 **The problem is...**
 
@@ -32,8 +36,11 @@ Things are changing tho., it may be somewhat possible with buying "spare parts" 
 ## Planned Features
 
 - [ ] ... by the time I get this started the whole MCU landscape may have changed ;)  
-We'll see.
+    We'll see.
+- [ ] May just use an existing PCB and build the case.  Tho ... PCBs is my :heart:.  
+    We'll see.
 
 &nbsp;<br>&nbsp;
+
 ---
-Made with &#9829; by **Vino Rodrigues**
+Made with :heart: by [**Silvino Rodrigues**](https://github.com/silvinor)
